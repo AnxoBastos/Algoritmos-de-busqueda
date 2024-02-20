@@ -1,0 +1,383 @@
+<mxfile host="app.diagrams.net" modified="2024-02-20T08:42:04.919Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZXDue-SqWkUDbYu-AmAD" version="23.1.5" type="device">
+  <diagram name="Página-1" id="l6GXHHqlLiAjDK4LxEsb">
+    <mxGraphModel dx="1090" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ieuRdaIpJWVPb451ErTI-3" value="Distancias" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="170" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-4" value="(Ourense, Ponferrada: 175)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-5" value="(Ourense, Benavente: 236)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-6" value="(Ponferrada, León: 113)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-7" value="(Ponferrada, Benavente: 125)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-8" value="(Benavente, León: 75)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-9" value="(Benavente. Valladolid: 112)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="180" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-10" value="(Benavente, Palencia: 112)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-11" value="(Palencia, León: 131)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-12" value="(Palencia, Valladolid: 48)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-13" value="(Palencia, Osorno: 49)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="300" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-14" value="(Palencia, Burgos: 92)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="330" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-15" value="(León, Osorno: 121)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-16" value="(Osorno, Burgos: 59)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-18" value="(Valladolid, Aranda: 95)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-19" value="(Burgos, Aranda: 84)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="450" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-20" value="(Aranda, Osma: 58)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="480" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-21" value="(Osma, Calatayud: 140)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="510" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-22" value="(Osma, Soria: 58)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="540" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-23" value="(Burgos, Soria: 143)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="570" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-24" value="(Burgos, Logroño: 150)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="600" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-25" value="(Logroño, Soria: 106)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="630" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-26" value="(Soria, Calatayud: 91)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-3" vertex="1">
+          <mxGeometry y="660" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-142" value="Recorrido" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="220" y="30" width="1090" height="690" as="geometry">
+            <mxRectangle x="220" y="30" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-145" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ &lt;b&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;175&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;&amp;nbsp;Benavente&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;236&lt;/sup&gt;&amp;nbsp;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="30" width="1090" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-146" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&amp;nbsp;&amp;nbsp;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ &lt;b&gt;Benavente&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;236&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;&amp;nbsp;Leon&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ponf&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;288&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ponf&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;300&lt;/sup&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="90" width="1090" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-147" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ &lt;b&gt;Leon&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ponf&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;&lt;u&gt;288&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt; Palencia&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt; Leon&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;311&lt;/sup&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="150" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-174" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ &lt;b&gt;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;348&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt; Palencia&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub&gt;Leon&lt;/sub&gt;&lt;sup&gt;419&lt;/sup&gt; Osorno&lt;sub&gt;Leon&lt;/sub&gt;&lt;sup&gt;409&lt;/sup&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="200" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-177" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ &lt;b&gt;Palencia&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;348&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;&amp;nbsp;Palencia&lt;sub&gt;Leon&lt;/sub&gt;&lt;sup&gt;419&lt;/sup&gt; Osorno&lt;sub&gt;Leon&lt;/sub&gt;&lt;sup&gt;409&lt;/sup&gt;&amp;nbsp;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="250" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-178" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ben&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;348&lt;/sup&gt;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ Osorno&lt;sub&gt;Leon&lt;/sub&gt;&lt;sup&gt;409&lt;/sup&gt;&amp;nbsp;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;&amp;nbsp;Burgos&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;440&lt;/sup&gt; &lt;b&gt;Osorno&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;397&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="300" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-179" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ben&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;348&lt;/sup&gt;&amp;nbsp;Osorno&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Pal&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;397&lt;/sup&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;&amp;nbsp;&lt;b&gt;Burgos&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;440&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;&amp;nbsp;Burgos&lt;sub&gt;Oso&lt;/sub&gt;&lt;sup&gt;456&lt;/sup&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="350" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-180" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ben&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;348&lt;/sup&gt;&amp;nbsp;Osorno&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;sub&gt;Pal&lt;/sub&gt;&lt;/span&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;397&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Burgos&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;440&lt;/sup&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ &lt;b&gt;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;443&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;&amp;nbsp;Logroño&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;590&lt;/sup&gt;&amp;nbsp;Soria&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;583&lt;/sup&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="400" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SEyOPiAXfUeGjha8k3jo-1" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ben&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;348&lt;/sup&gt;&amp;nbsp;Osorno&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;sub&gt;Pal&lt;/sub&gt;&lt;/span&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;397&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Burgos&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;440&lt;/sup&gt;&amp;nbsp;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ Logroño&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;590&lt;/sup&gt;&amp;nbsp;Soria&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;583&lt;/sup&gt;&amp;nbsp;&lt;b&gt;Osma&lt;sub&gt;Ara&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;501&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="450" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SEyOPiAXfUeGjha8k3jo-2" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ben&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;348&lt;/sup&gt;&amp;nbsp;Osorno&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;sub&gt;Pal&lt;/sub&gt;&lt;/span&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;397&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Burgos&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;440&lt;/sup&gt;&amp;nbsp;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;&amp;nbsp;Osma&lt;sub&gt;Ara&lt;/sub&gt;&lt;sup&gt;501&lt;/sup&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ Calatayud&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;641&lt;/sup&gt; Logroño&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;590&lt;/sup&gt;&amp;nbsp;Soria&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;583&lt;/sup&gt;&amp;nbsp;&lt;b&gt;Soria&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;559&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="500" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SEyOPiAXfUeGjha8k3jo-3" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ben&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;348&lt;/sup&gt;&amp;nbsp;Osorno&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;sub&gt;Pal&lt;/sub&gt;&lt;/span&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;397&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Burgos&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;440&lt;/sup&gt;&amp;nbsp;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;&amp;nbsp;Osma&lt;sub&gt;Ara&lt;/sub&gt;&lt;sup&gt;501&lt;/sup&gt;&amp;nbsp;Soria&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;559&lt;/sup&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ Calatayud&lt;sub&gt;Soria&lt;/sub&gt;&lt;sup&gt;650&lt;/sup&gt; Calatayud&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;641&lt;/sup&gt; &lt;b&gt;Logroño&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;590&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="550" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SEyOPiAXfUeGjha8k3jo-4" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ben&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;348&lt;/sup&gt;&amp;nbsp;Osorno&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;sub&gt;Pal&lt;/sub&gt;&lt;/span&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;397&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Burgos&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;440&lt;/sup&gt;&amp;nbsp;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;&amp;nbsp;Osma&lt;sub&gt;Ara&lt;/sub&gt;&lt;sup&gt;501&lt;/sup&gt;&amp;nbsp;Soria&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;559&lt;/sup&gt;&amp;nbsp;Logroño&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;590&lt;/sup&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ Calatayud&lt;sub&gt;Soria&lt;/sub&gt;&lt;sup&gt;650&lt;/sup&gt; &lt;b&gt;Calatayud&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;&lt;u&gt;641&lt;/u&gt;&lt;/sup&gt;&lt;/b&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="600" width="1090" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SEyOPiAXfUeGjha8k3jo-5" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;E&lt;/b&gt;{ Ourense&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sub&gt;&amp;nbsp;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;Ponferrada&amp;nbsp;&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ou&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;175&lt;/sup&gt;&amp;nbsp;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt;&amp;nbsp;Leon&lt;sub&gt;Ponf&lt;/sub&gt;&lt;sup&gt;288&lt;/sup&gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&amp;nbsp;Palencia&lt;sub style=&quot;border-color: var(--border-color);&quot;&gt;Ben&lt;/sub&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;348&lt;/sup&gt;&amp;nbsp;Osorno&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;sub&gt;Pal&lt;/sub&gt;&lt;/span&gt;&lt;sup style=&quot;border-color: var(--border-color);&quot;&gt;397&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Burgos&lt;sub&gt;Pal&lt;/sub&gt;&lt;sup&gt;440&lt;/sup&gt;&amp;nbsp;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;&amp;nbsp;Osma&lt;sub&gt;Ara&lt;/sub&gt;&lt;sup&gt;501&lt;/sup&gt;&amp;nbsp;Soria&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;559&lt;/sup&gt;&amp;nbsp;Logroño&lt;sub&gt;Burg&lt;/sub&gt;&lt;sup&gt;590&lt;/sup&gt;&amp;nbsp;Calatayud&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;641&lt;/sup&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;F&lt;/b&gt;{ Calatayud&lt;sub&gt;Soria&lt;/sub&gt;&lt;sup&gt;650&lt;/sup&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=1;" parent="ieuRdaIpJWVPb451ErTI-142" vertex="1">
+          <mxGeometry y="650" width="1090" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-166" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;S&lt;/b&gt;{ Ourense&lt;sub style=&quot;&quot;&gt;0&lt;/sub&gt;&lt;sup style=&quot;&quot;&gt;0&lt;/sup&gt; --&amp;gt;&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Benavente&lt;sub&gt;Ou&lt;/sub&gt;&lt;sup&gt;236&lt;/sup&gt; --&amp;gt;&amp;nbsp;Valladolid&lt;sub&gt;Ben&lt;/sub&gt;&lt;sup&gt;348&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;--&amp;gt;&amp;nbsp;Aranda&lt;sub&gt;Vall&lt;/sub&gt;&lt;sup&gt;443&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;--&amp;gt;&amp;nbsp;Osma&lt;sub&gt;Ara&lt;/sub&gt;&lt;sup&gt;501&lt;/sup&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;--&amp;gt;&amp;nbsp;Calatayud&lt;sub&gt;Osma&lt;/sub&gt;&lt;sup&gt;641&lt;/sup&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1120" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-169" value="" style="group;fillColor=default;strokeColor=default;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="20" y="750" width="710" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="60" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000033;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="170" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-69" target="ieuRdaIpJWVPb451ErTI-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-106" value="175" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-67" vertex="1" connectable="0">
+          <mxGeometry x="0.0359" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="210" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontColor=#000000;strokeColor=#00FF00;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-69" target="ieuRdaIpJWVPb451ErTI-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-107" value="236" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-68" vertex="1" connectable="0">
+          <mxGeometry x="-0.0801" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-72" target="ieuRdaIpJWVPb451ErTI-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-108" value="125" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-70" vertex="1" connectable="0">
+          <mxGeometry x="-0.1077" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-79" target="ieuRdaIpJWVPb451ErTI-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-110" value="75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-76" vertex="1" connectable="0">
+          <mxGeometry x="-0.1469" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000033;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="270" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-72" target="ieuRdaIpJWVPb451ErTI-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-109" value="113" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-71" vertex="1" connectable="0">
+          <mxGeometry x="0.0188" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-82" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000033;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="344" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-75" target="ieuRdaIpJWVPb451ErTI-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-111" value="112" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-73" vertex="1" connectable="0">
+          <mxGeometry x="0.1362" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-79" target="ieuRdaIpJWVPb451ErTI-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-113" value="132" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-78" vertex="1" connectable="0">
+          <mxGeometry x="0.0253" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-83" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-85" target="ieuRdaIpJWVPb451ErTI-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-116" value="49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-83" vertex="1" connectable="0">
+          <mxGeometry x="-0.0949" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000033;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="400" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-79" target="ieuRdaIpJWVPb451ErTI-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-114" value="121" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-77" vertex="1" connectable="0">
+          <mxGeometry x="-0.0828" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="354" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#00FF00;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-75" target="ieuRdaIpJWVPb451ErTI-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-112" value="112" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-74" vertex="1" connectable="0">
+          <mxGeometry x="0.1227" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-82" target="ieuRdaIpJWVPb451ErTI-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-117" value="48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-81" vertex="1" connectable="0">
+          <mxGeometry x="0.0686" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000033;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="490" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-82" target="ieuRdaIpJWVPb451ErTI-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-118" value="92" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-80" vertex="1" connectable="0">
+          <mxGeometry x="0.0942" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-85" target="ieuRdaIpJWVPb451ErTI-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-115" value="59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-84" vertex="1" connectable="0">
+          <mxGeometry x="0.1189" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="460" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-86" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#00FF00;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-87" target="ieuRdaIpJWVPb451ErTI-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-119" value="95" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-86" vertex="1" connectable="0">
+          <mxGeometry x="-0.0034" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-91" target="ieuRdaIpJWVPb451ErTI-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-120" value="84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-88" vertex="1" connectable="0">
+          <mxGeometry x="0.0178" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000033;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="640" y="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-91" target="ieuRdaIpJWVPb451ErTI-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-122" value="150" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-90" vertex="1" connectable="0">
+          <mxGeometry x="0.0731" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-97" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000033;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="640" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-91" target="ieuRdaIpJWVPb451ErTI-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-123" value="143" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-89" vertex="1" connectable="0">
+          <mxGeometry x="0.023" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-95" target="ieuRdaIpJWVPb451ErTI-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-124" value="106" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-94" vertex="1" connectable="0">
+          <mxGeometry x="-0.0742" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-98" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="610" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-97" target="ieuRdaIpJWVPb451ErTI-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-125" value="91" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-96" vertex="1" connectable="0">
+          <mxGeometry x="0.0591" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#00FF00;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-101" target="ieuRdaIpJWVPb451ErTI-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-127" value="140" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-99" vertex="1" connectable="0">
+          <mxGeometry x="-0.054" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-101" target="ieuRdaIpJWVPb451ErTI-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-126" value="58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-100" vertex="1" connectable="0">
+          <mxGeometry x="0.0242" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;strokeColor=default;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="550" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#00FF00;" parent="ieuRdaIpJWVPb451ErTI-169" source="ieuRdaIpJWVPb451ErTI-93" target="ieuRdaIpJWVPb451ErTI-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-128" value="58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ieuRdaIpJWVPb451ErTI-92" vertex="1" connectable="0">
+          <mxGeometry x="0.1312" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-129" value="Ourense" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-130" value="Ponferrada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="145" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-131" value="Benavente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="190" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-132" value="Leon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-133" value="Osorno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="380" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-134" value="Palencia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="360" y="185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-135" value="Valladolid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="334" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-136" value="Aranda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="440" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-137" value="Osma" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="530" y="202.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-138" value="Calatayud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="590" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-139" value="Soria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="650" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-140" value="Logroño" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="650" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ieuRdaIpJWVPb451ErTI-141" value="Burgos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ieuRdaIpJWVPb451ErTI-169" vertex="1">
+          <mxGeometry x="470" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
